@@ -1,6 +1,6 @@
 ## NOROR 🚀
-
-## GOSPEEDMODE FOR NO ROOT 🚀
+## no root reincarnation of revolutionary
+## GOSPEED MODE FOR NO ROOT 🚀
 
 ## Usage 🔢
 
@@ -15,13 +15,20 @@
 
 ‎```
      unzip < noror.zip file path> -d /data/data/com.termux/files/home/ && chmod +x /data/data/com.termux/files/home/noror* ```
+## Example 
+*lets assume you just downloaded the file on Download , file name on it is noror.zip and file locates on sdcard/download
+Than you just have to copy and paste following command on termux
 
+``
+ unzip /sdcard/download/noror.zip -d /data/data/com.termux/files/home/ && chmod +x /data/data/com.termux/files/home/noror*
+ ``
+ 
 4. Run The script
 
 ‎`` ./noror 
 ``
 ## Download 📲
-You can download GSMxNORORfrom the following:
+You can download GSMxNOROR from the following:
 
 • [GS TO PLING](https://www.godtspeed.xyz/2023/06/noror-no-root-version-of-godspeed-mode.html)
 
