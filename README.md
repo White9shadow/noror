@@ -20,9 +20,9 @@ unzip < noror.zip file path> -d /data/data/com.termux/files/home/ && chmod +x /d
 
 
 ## Download 📲
-You can download GSMxBNG from the following:
+You can download GSMxNORORfrom the following:
 
-• [Pling](https://www.godtspeed.xyz/2023/06/noror-no-root-version-of-godspeed-mode.html)
+• [GS TO PLING](https://www.godtspeed.xyz/2023/06/noror-no-root-version-of-godspeed-mode.html)
 
 • [PAYPAL](https://paypal.me/revGSM)
 
