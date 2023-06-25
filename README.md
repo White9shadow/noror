@@ -1,5 +1,5 @@
-# noror
-<p align="center"><b>GOSPEEDMODE BIONIC NEXT GENERATION </b></p>
+# NOROR
+
 
 
 
@@ -23,7 +23,7 @@ unzip < noror.zip file path> -d /data/data/com.termux/files/home/ && chmod +x /d
 ## Download 📲
 You can download GSMxBNG from the following:
 
-• [Pling](https://www.pling.com/p/1943570/)
+• [Pling](https://www.pling.com/p/2056054/)
 
 • [PAYPAL](https://paypal.me/revGSM)
 
