@@ -11,7 +11,7 @@
 2. Open Termux:
    - Launch the Termux app on your Android device.
   
-3. put following commabd to insll the optimizer
+3. put following command to install the optimizer
 
 ‎```
      unzip < noror.zip file path> -d /data/data/com.termux/files/home/ && chmod +x /data/data/com.termux/files/home/noror* ```
