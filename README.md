@@ -18,12 +18,12 @@ unzip < noror.zip file path> -d /data/data/com.termux/files/home/ && chmod +x /d
 ./noror
 ‎```‎
 
-
+https://www.godtspeed.xyz/2023/06/noror-no-root-version-of-godspeed-mode.html
 
 ## Download 📲
 You can download GSMxBNG from the following:
 
-• [Pling](https://www.pling.com/p/2056054/)
+• [Pling](https://www.godtspeed.xyz/2023/06/noror-no-root-version-of-godspeed-mode.html)
 
 • [PAYPAL](https://paypal.me/revGSM)
 
