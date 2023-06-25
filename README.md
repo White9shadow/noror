@@ -16,7 +16,7 @@
 ‎```
      unzip < noror.zip file path> -d /data/data/com.termux/files/home/ && chmod +x /data/data/com.termux/files/home/noror* ```
 
-•4. Run The script
+4. Run The script
 
 ‎`` ./noror 
 ``
