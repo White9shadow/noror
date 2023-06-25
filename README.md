@@ -1,24 +1,25 @@
-# NOROR
+## NOROR 🚀
 
-
-
-
-
-
-# GOSPEEDMODE FOR NO ROOT 🚀
+## GOSPEEDMODE FOR NO ROOT 🚀
 
 ## Usage 🔢
 
-‎```‎
-unzip < noror.zip file path> -d /data/data/com.termux/files/home/ && chmod +x /data/data/com.termux/files/home/noror*
-‎```‎
+1. Install Termux:
+   - Open the Google Play Store on your Android device / from fdroid
+   - Search for "Termux" and install the Termux app developed by Fredrik Fornwall.
 
+2. Open Termux:
+   - Launch the Termux app on your Android device.
+  
+3. put following commabd to insll the optimizer
 
-‎```‎
-./noror
-‎```‎
+‎```
+     unzip < noror.zip file path> -d /data/data/com.termux/files/home/ && chmod +x /data/data/com.termux/files/home/noror* ```
 
+•4. Run The script
 
+‎`` ./noror 
+``
 ## Download 📲
 You can download GSMxNORORfrom the following:
 
