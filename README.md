@@ -30,7 +30,7 @@ Than you just have to copy and paste following command on termux
 ``
 
 
-##INTALL IN SHIZUKU
+#INTALL IN SHIZUKU
 
 ##unzip
 
