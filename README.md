@@ -13,6 +13,7 @@
   
 3. put following command to install the optimizer
 
+
 ‎```
      unzip < noror.zip file path> -d /data/data/com.termux/files/home/ && chmod +x /data/data/com.termux/files/home/noror* ```
 ## Example 
@@ -27,6 +28,41 @@ Than you just have to copy and paste following command on termux
 
 ‎`` ./noror 
 ``
+
+
+##INTALL IN SHIZUKU
+
+##unzip
+
+``
+unzip /sdcard/download/noror.zip -d /sdcard/download/
+``
+
+##give shizuku permision
+
+``
+sh /path to rish file
+``
+
+##move
+
+``
+cp /sdcard/download/noror /data/local/tmp
+``
+
+##permission 
+
+``
+chmod +x /data/local/tmp/noror
+``
+
+##run the script
+
+``
+/data/local/tmp/noror
+``
+
+#
 ## Download 📲
 You can download GSMxNOROR from the following:
 
