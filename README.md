@@ -1,69 +1,42 @@
-## NOROR 🚀
+# NOROR 🚀
 ## no root reincarnation of revolutionary
 ## GOSPEED MODE FOR NO ROOT 🚀
 
 ## Usage 🔢
 
-1. Install Termux:
-   - Open the Google Play Store on your Android device / from fdroid
-   - Search for "Termux" and install the Termux app developed by Fredrik Fornwall.
+1. all required
 
-2. Open Termux:
-   - Launch the Termux app on your Android device.
-  
-3. put following command to install the optimizer
+   -Shizuku
+   -Termux
 
+#2.extract:
+   - create a folder named NOROR
+   -extract the NOROR.zip on NOROR folder you created on Interal storage
 
-‎```
-     unzip < noror.zip file path> -d /data/data/com.termux/files/home/ && chmod +x /data/data/com.termux/files/home/noror* ```
-## Example 
-*lets assume you just downloaded the file on Download , file name on it is noror.zip and file locates on sdcard/download
-Than you just have to copy and paste following command on termux
+3.Shizuku
+   -run shizuku and connect wireless debuging
 
-``
- unzip /sdcard/download/noror.zip -d /data/data/com.termux/files/home/ && chmod +x /data/data/com.termux/files/home/noror*
- ``
- 
-4. Run The script
-
-‎`` ./noror 
-``
+4.Run the script
+   - Launch the termux app on your Android device
+   ```
+ sh /sdcard/NOROR/rish
+  ```
+5.put following command to install the optimizer
 
 
-#INTALL IN SHIZUKU
 
-##unzip
+```
+rm -rf /data/local/tmp/* && cp /sdcard/NOROR/NOROR /data/local/tmp && chmod +x /data/local/tmp/NOROR && /data/local/tmp/NOROR
+```
+## 32 bit installation
 
-``
-unzip /sdcard/download/noror.zip -d /sdcard/download/
-``
+```
+rm -rf /data/local/tmp/* && cp /sdcard/NOROR/NOROR32.sh /data/local/tmp && chmod +x /data/local/tmp/NOROR32.sh && /data/local/tmp/NOROR32.sh
+```
 
-##give shizuku permision
 
-``
-sh /path to rish file
-``
+# Download 📲
 
-##move
-
-``
-cp /sdcard/download/noror /data/local/tmp
-``
-
-##permission 
-
-``
-chmod +x /data/local/tmp/noror
-``
-
-##run the script
-
-``
-/data/local/tmp/noror
-``
-
-#
-## Download 📲
 You can download GSMxNOROR from the following:
 
 • [GS TO PLING](https://www.godtspeed.xyz/2023/06/noror-no-root-version-of-godspeed-mode.html)
